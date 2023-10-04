@@ -1,19 +1,14 @@
-# bank-card
+<img width="603" alt="bankCard" src="https://github.com/DieReiterin/CreditCardForm/assets/106297490/b7aaeb86-d74b-4f95-bc1a-d2401bd977b9"># Интерактивная форма банковской карточки
 
-## Project setup
-```
-npm install
-```
+## Демо
+https://credit-card-form-diereiterin.vercel.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Локальный запуск
+#### `npm i `
+#### `npm start`
+#### `http://localhost:8080/`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Скриншот:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![CropperStock](https://github.com/DieReiterin/CreditCardForm/blob/main/src/assets/bankCard.png)
+
