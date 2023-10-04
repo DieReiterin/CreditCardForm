@@ -4,7 +4,7 @@
 
 
 ## Демо
-https://credit-card-form-diereiterin.vercel.app/
+https://credit-card-form-swart.vercel.app/
 
 ## Локальный запуск
 #### `npm i `
