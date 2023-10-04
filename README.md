@@ -10,5 +10,5 @@ https://credit-card-form-diereiterin.vercel.app/
 
 # Скриншот:
 
-![CropperStock](https://github.com/DieReiterin/CreditCardForm/blob/main/src/assets/bankCard.png)
+![CreditCardForm](https://github.com/DieReiterin/CreditCardForm/blob/main/src/assets/bankCard.png)
 
